@@ -1,2 +1,2 @@
-# creat-docs-template
-creat-docs-template
+# create-docs-template
+create-docs-template
